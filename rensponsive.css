@@ -1,0 +1,48 @@
+@media screen and (max-width: 992px) {
+  .navbar {
+    padding: 20px 3%;
+    transition: 0.4s;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main-home {
+    min-height: 85vh;
+  }
+
+  .main-text h1 {
+    font-size: 50px;
+    transition: 0.4s;
+  }
+
+  .main-text p {
+    font-size: 18px;
+    transition: 0.4s;
+  }
+
+  .main-btn {
+    padding: 10px 20px;
+    transition: 0.4s;
+  }
+}
+
+@media screen and (max-width: 368px) {
+  .main-home {
+    min-height: 100vh;
+  }
+
+  .main-text h1 {
+    font-size: 50px;
+    transition: 0.4s;
+  }
+
+  .main-text p {
+    font-size: 18px;
+    transition: 0.4s;
+  }
+
+  .main-btn {
+    padding: 10px 20px;
+    transition: 0.4s;
+  }
+}
